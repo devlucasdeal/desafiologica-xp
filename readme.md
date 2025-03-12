@@ -29,7 +29,7 @@ Foi gratificante conseguir concluir esse desafio, cada dia que passa me sinto ma
 
 Abaixo deixo minhas redes sociais, onde estou postando toda a minha jornada de aprendizado dentro do universo da programação, vai ser um prazer te ter por la.
 
-## 📲 Minha Redes Sociais:
+## 📲 Minhas Redes Sociais:
 
 | REDE | CLIQUE E SIGA |
 |------|---------------|
